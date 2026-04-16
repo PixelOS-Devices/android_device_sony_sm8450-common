@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0df41c93_600d9b87",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000093
+      },
+      "writtenOn": "2026-04-16T13:43:05Z",
+      "side": 1,
+      "message": "Wait until hardware/sony is created",
+      "revId": "7a1696566c0965adf183faeafd4160fb0030d42d",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
