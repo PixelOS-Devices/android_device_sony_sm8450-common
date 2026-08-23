@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d10688cf_b6791ece",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000093
+      },
+      "writtenOn": "2026-08-23T02:30:07Z",
+      "side": 1,
+      "message": "Tested on Sony Nagara (1 IV/5 IV) with WF1000XM5 (works). Would love to see if anyone using Sony tried it.\n\nThis does not affect AC3, as Sony doesn\u0027t kick upmixing when playing AC3 and without headphones connected. This looks more like a restriction bypass itself as the stock firmware only allow upmixing for YouTube and Spotify.",
+      "revId": "d17e0bce04b0b1aef7a386a6290f5df77079cedb",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
